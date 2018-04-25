@@ -4,3 +4,5 @@ languages:
   - jQuery
 resources: 
   - 0
+
+parent_template: git@github.com:learn-co-curriculum/js-ajax-ajax-and-callbacks-lab.git

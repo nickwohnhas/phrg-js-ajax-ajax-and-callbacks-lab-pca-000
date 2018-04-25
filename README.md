@@ -30,3 +30,4 @@ We're making a GitHub repository search client. It should take a user's search t
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-ajax-callbacks-lab' title='AJAX and Callbacks Lab'>AJAX and Callbacks Lab</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-ajax-callbacks-lab'>AJAX and Callbacks Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG AJAX and Callbacks Lab</p>
